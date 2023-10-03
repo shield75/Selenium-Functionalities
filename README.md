@@ -33,16 +33,16 @@ Implementing various web functionalities usign Selenium.
 
  - [Practice Page](![2](https://github.com/shield75/Selenium-Functionalitues/assets/77926360/c37c4f0d-34c3-4a7b-a1ee-f76c1a186686))
  - [DemoQA](![3](https://github.com/shield75/Selenium-Functionalitues/assets/77926360/7be6d12f-a4c7-434b-82b3-e06c6e7afecf))
- - https://github.com/shield75/Selenium-Functionalitues/assets/77926360/d14058bd-2141-418b-8c63-8f844507594e
+ - [Automation Demo Site](https://demo.automationtesting.in/Selectable.html)
 
 
 ## Screenshots
 
-![Practice Page](https://ibb.co/jRQQ2HR)
+![Practice Page](![2](https://github.com/shield75/Selenium-Functionalitues/assets/77926360/c37c4f0d-34c3-4a7b-a1ee-f76c1a186686))
 
-![DemoQA](https://ibb.co/q01s6bH)
+![DemoQA](![3](https://github.com/shield75/Selenium-Functionalitues/assets/77926360/7be6d12f-a4c7-434b-82b3-e06c6e7afecf))
 
-![Automation Demo Site](https://ibb.co/nmXG0Mq)
+![Automation Demo Site](![1](https://github.com/shield75/Selenium-Functionalitues/assets/77926360/d14058bd-2141-418b-8c63-8f844507594e))
 
 
 
